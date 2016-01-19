@@ -11,5 +11,5 @@ App个人收藏图标库
 4、完成
 
 ```
-<\i class="imooc-icon">&#xe8a0;<\/i>
+5、<\i class="imooc-icon">&#xe8a0;<\/i>   
 ```
