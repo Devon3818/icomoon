@@ -12,5 +12,6 @@ App个人收藏图标库
 
 ```
 <i class="imooc-icon">&#xe8a0;</i>   （修改后四位即可更换对应图标，如：&#xe8a0; --> &#xe601;）
-<img src="http://cdn.v2ex.co/site/logo@2x.png?m=1346064962" />
+
 ```
+![image](http://cdn.v2ex.co/site/logo@2x.png?m=1346064962)
